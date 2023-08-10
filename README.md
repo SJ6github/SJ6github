@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/premium-vector/programming-typographic-header-it-education-student-write-software-create-code-computer-coding-script-web-project-app-vector-illustration_277904-13340.jpg)](https://rishavchanda.io)
 
 
-<h1 align="left">Hi 👋, I'm Sneha Joshi, a fresher!</h1>
+<h1 align="left">Hi 👋, I'm Sneha, a fresher!</h1>
 <h3 align="center">A passionate tech enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
