@@ -12,8 +12,6 @@
 
 - 👯 I’m looking forward to learning **Web Development**
 
-- 📫 How to reach me **snehaj336699@gmail.com**
-
 
 <p align="left">
 </p>
