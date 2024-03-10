@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj6github&label=Profile%20views&color=0e75b6&style=flat" alt="sj6github" /> </p>
 
-- 🌱 I’m currently learning **C++ and DSA (Data Structures & Algorithms)**
+- 🌱 I’m currently learning **Java and DSA (Data Structures & Algorithms)**
 
 - 👯 I’m looking forward to learning **Web Development**
 
