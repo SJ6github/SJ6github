@@ -3,7 +3,7 @@
 
 <h1 align="left">Hi 👋, I'm Sneha, a fresher!</h1>
 <h3 align="left">A passionate tech enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXgaqNlx3BG2hgDU6j4C_OU0uAgYeCwdSEfw&s)">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/girl-working-as-programmer-woman-works-it-sphere_490811-41.jpg?w=740">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj6github&label=Profile%20views&color=0e75b6&style=flat" alt="sj6github" /> </p>
